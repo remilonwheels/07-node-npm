@@ -1,0 +1,20 @@
+{
+  "name": "starter-code",
+  "version": "1.0.0",
+  "description": "sup ayo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ayo",
+    "playa",
+    "sup"
+  ],
+  "author": "Remy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
